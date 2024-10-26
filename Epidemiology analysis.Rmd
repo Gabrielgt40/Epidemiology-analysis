@@ -1,0 +1,7 @@
+---
+title: "Epidemiology analysis"
+author: "Gabriel Paiva"
+date: "2024-10-26"
+output: html_document
+---
+
